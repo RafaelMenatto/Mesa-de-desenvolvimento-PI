@@ -3,11 +3,9 @@
 ## Descrição e Desenvolvedores
 Este é um projeto integrado desenvolvido para o módulo de desktop dos cursos de Análise e Desenvolvimento de sistemas e Gestão de Tecnologia da informação para a UNIFEOB.
 Feito por:
-Giovane Primo Moretti - 24002113
-Gabriel Trinca de Marchi - 24002112
-Gabriel Henrique dos Reis Diunizio - 24000541
+
 Rafael Melanda Menatto - 23200271
-Rita de Cássia Del Giudice Conceição - 24000469
+
 
 ## Tecnologias Utilizadas
 - Java
