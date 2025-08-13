@@ -1,4 +1,4 @@
-# Sistema de Registro de Produtos Hidráulicos - Java 
+# Sistema de Registro de Produtos - Java 
 
 ## Descrição e Desenvolvedores
 Este é um projeto integrado desenvolvido para o módulo de desktop dos cursos de Análise e Desenvolvimento de sistemas e Gestão de Tecnologia da informação para a UNIFEOB.
